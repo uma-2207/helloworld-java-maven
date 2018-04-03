@@ -20,11 +20,17 @@
   </dependencies>
 <distributionManagement>
     <repository>
-        <id>4df46e30af4e</id>
-        <name>4df46e30af4e-releases</name>
-        <url>http://13.127.229.164:8081/artifactory/list/jenkins/</url>
+        <id>muniraja</id>
+        <name>rajesh-releases</name>
+        <url>http://13.232.2.248:8080/artifactory/muniraja</url>
     </repository>
+    <snapshotRepository>
+        <id>muniraja</id>
+        <name>rajesh-snapshots</name>
+        <url>http://13.232.2.248:8080/artifactory/muniraja</url>
+    </snapshotRepository>
 </distributionManagement>
+
 
 
 
