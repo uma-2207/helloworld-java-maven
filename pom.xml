@@ -39,15 +39,15 @@
 	</build>
 <distributionManagement>
 	<repository>
-		<id>uma</id>
+		<id>central</id>
 		<name>Internal Releases</name>
-		<url>https://github.com/uma-2207/helloworld-java-maven.git</url>
+		<url>http://192.168.229.137:8081/repository/project01/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>uma</id>
+		<id>central</id>
 		<name>Internal Releases</name>
-		<url>https://github.com/uma-2207/helloworld-java-maven.git</url>
+		<url>http://192.168.229.137:8081/repository/project01/</url>
 	</snapshotRepository>
 
 </distributionManagement>
